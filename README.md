@@ -16,15 +16,10 @@ Terminal-first coding agent that runs inside the real VS Code integrated termina
 ## Stack
 TypeScript, Node.js, OpenAI SDK, Model Context Protocol SDK, Zod, VS Code extension API.
 
-## Development
-1. Copy .env.example to .env.
-2. Run npm install.
-3. Run npm run build.
-4. Run npm test.
+## Source access
 
-Never commit API keys. .env is ignored by Git.
+The complete implementation is kept in a private source archive. For serious commercial discussions, a live walkthrough, architecture review, or controlled private code review can be arranged.
 
 ## Usage and licensing
 
-This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [LICENSE.md](LICENSE.md).
-
+This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [PROPRIETARY-NOTICE.md](PROPRIETARY-NOTICE.md).
